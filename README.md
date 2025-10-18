@@ -17,7 +17,7 @@
 
 ### Aqui pongo la imagen final despues de hacer el repositorio con una maquina local y en remoto simulando trabajar juntos 2 usuarios
 
-![Imagen del resultado final](.vscode/img/imagen_final.jpg)
+![Imagen del resultado final](img/imagen_final.jpg)
 
 ---
 
